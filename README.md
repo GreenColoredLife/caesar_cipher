@@ -1,4 +1,4 @@
-# caesar_cipher
+# caesar cipher
 Decrypt and encrypt messages for fun (only)!
 
 Steps: 
